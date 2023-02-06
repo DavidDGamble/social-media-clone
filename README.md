@@ -4,7 +4,7 @@
 
 #### _A React web app to demonstrate React basics._
 
-
+![Diagram](https://github.com/DavidDGamble/social-media-clone/blob/main/src/images/Diagram.png)
 
 ## Technologies Used
 
