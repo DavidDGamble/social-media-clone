@@ -3,6 +3,10 @@
 #### By: _**David Gamble & Robert Bryan**_
 
 #### _A React web app to demonstrate React basics._
+* _Use create-react-app command below to scaffold a React project:_
+```
+npx create-react-app [PROJECT NAME]
+```
 
 ![Diagram](https://github.com/DavidDGamble/social-media-clone/blob/main/src/images/Diagram.png)
 
