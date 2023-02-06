@@ -1,0 +1,15 @@
+.user-about {
+  background-color: lightgray;
+  border-radius: 1.5rem;
+}
+
+.about {
+  padding-top: 1rem;
+  padding-left: 1rem;
+}
+
+.about-content {
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}

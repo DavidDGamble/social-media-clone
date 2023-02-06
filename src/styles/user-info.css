@@ -1,0 +1,14 @@
+.profile-main {
+  background-color: lightgray;
+  border-radius: 1.5rem;
+}
+
+.pmain-bottom {
+  padding-bottom: .25rem;
+  padding-left: 1rem;
+}
+
+.pmain-top {
+  text-align: center;
+}
+

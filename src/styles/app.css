@@ -1,0 +1,13 @@
+.main-page {
+  display: flex;
+  align-items: flex-start;
+  align-content: flex-start;
+  align-self: flex-start;
+  margin-top: 10vh;
+}
+
+.main-column {
+  width: 90vw;
+  margin: auto;
+  margin-top: 0%;
+}

@@ -1,0 +1,25 @@
+.post-list {
+  background-color: lightgray;
+  border-radius: 1.5rem;
+  margin-left: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding: 1rem;
+  width: 50vw;
+}
+
+.post {
+  text-align: center;
+}
+
+.post-input {
+  width: 30vw;
+  height: 3rem;
+}
+
+.post-button {
+  /* margin-left: 1.5rem; */
+  left: 1.5rem;
+  position: relative;
+  bottom: 1.25rem;
+}
